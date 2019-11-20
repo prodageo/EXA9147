@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.extensiblejava.entity.Student;
+import com.extensiblejava.bill.Student;
 import com.extensiblejava.repository.StudentRepository;
 
 @Controller
