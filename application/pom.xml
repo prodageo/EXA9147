@@ -8,11 +8,11 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.javaguides.springboot</groupId>
-	<artifactId>springboot-thymeleaf-crud-tutorial</artifactId>
+	<groupId>com.extensiblejava</groupId>
+	<artifactId>exa9147-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-thymeleaf-crud-tutorial</name>
-	<description>springboot-thymeleaf-crud-tutorial</description>
+	<name>exa9147-application-name</name>
+	<description>application</description>
 
 	<properties>
 		<java.version>1.8</java.version>
