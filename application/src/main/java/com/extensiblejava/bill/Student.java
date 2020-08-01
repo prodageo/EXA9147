@@ -1,4 +1,4 @@
-package com.extensiblejava.entity;
+package com.extensiblejava.bill;
 
 
 import javax.persistence.Column;
