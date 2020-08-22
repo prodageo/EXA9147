@@ -22,7 +22,6 @@
 	</parent>
 	<!-- <groupId>com.extensiblejava</groupId> -->
 	<artifactId>exa9147-application</artifactId>
-	<!--
 	<version>0.0.1-SNAPSHOT</version>
 	<name>exa9147-application-name</name>
 	<description>application</description>
