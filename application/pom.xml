@@ -18,11 +18,12 @@
 		<groupId>org.prodageo</groupId>
 		<artifactId>exa9147</artifactId>
 		<version>1.0-SNAPSHOT</version>
-		<relativePath></relativePath>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
+	
 	<!-- <groupId>com.extensiblejava</groupId> -->
 	<artifactId>exa9147-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0.1-SNAPSHOT</version>
 	<name>exa9147-application-name</name>
 	<description>application</description>
 
